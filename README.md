@@ -1,2 +1,2 @@
 # Online_ChatRoom_HUNAUACM
-a small online Chat program just for study
+A small online-chat program just for study
